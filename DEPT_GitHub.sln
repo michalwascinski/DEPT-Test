@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEPT_GitHub", "DEPT_GitHub\DEPT_GitHub.csproj", "{B95037F2-FC6D-49F4-8A4B-AC14523F45AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation_Utils", "Automation_Utils\Automation_Utils.csproj", "{F1CC18F5-FD3D-44E7-AF0F-A19DD75440A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95037F2-FC6D-49F4-8A4B-AC14523F45AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95037F2-FC6D-49F4-8A4B-AC14523F45AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95037F2-FC6D-49F4-8A4B-AC14523F45AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95037F2-FC6D-49F4-8A4B-AC14523F45AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CC18F5-FD3D-44E7-AF0F-A19DD75440A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CC18F5-FD3D-44E7-AF0F-A19DD75440A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CC18F5-FD3D-44E7-AF0F-A19DD75440A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CC18F5-FD3D-44E7-AF0F-A19DD75440A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1599E4E-DA8B-49E9-A4BC-9DF16F6B5446}
+	EndGlobalSection
+EndGlobal
